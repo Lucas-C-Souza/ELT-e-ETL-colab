@@ -36,4 +36,4 @@ A atividade demonstrou que enquanto o ETL é ideal para garantir a qualidade e c
 
 ---
 **Autor:** Lucas da Costa Souza  
-**Curso:** Análise e Desenvolvimento de Sistemas (ADS)
+**Curso:** INTELIGÊNCIA DE MERCADO E ANÁLISE DE DADOS
